@@ -1,0 +1,32 @@
+============================================================================
+			INSTALLATION INSTRUCTIONS
+============================================================================
+
+
+
+These are the installations instructions for TemplateModifier.
+
+
+TemplateModifier needs the Java runtime environment.   To install this go to
+www.java.sun.com.   
+INSTALL: 
+You need to unzip the TemplateModifier file to a directory.
+
+When this is done double click on the TemplateModifier.bat file.   
+
+
+
+If it still will not run here are a few suggestions:
+
+A dos prompt flashes on screen:
+1.  check the classpath for the JRE.   refer to www.java.sun.com for details
+2.  make sure the batch file is in the same file.  You can create a shortcut of the batchfile but the 	
+
+An error comes up saying NoClassDeFoundError.  
+1. All the files are not accounted for,  unzip the files again.
+
+
+The program can just be "run" from a directory, all you need are the files to be there.  There is no complex installation except for the Jave JRE.
+
+if problems persist contact rodcmullen@hotmail.com
+
